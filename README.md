@@ -36,5 +36,5 @@ Here are some ideas to get you started:
   <a href = "mailto:gustavolira8813@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-lira-ribeiro-gomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Guga-telegram" </a>
-     <a href="https://api.whatsapp.com/send?phone=81986384209&text=Sua%20mensagem%20vai%20aqu" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Guga-whats" </a>
+     <a href="https://api.whatsapp.com/send?phone=5581986384209&text=Olá, tudo bem? me chamo" target="_blank"/><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Guga-whats" </a>
 </div>
